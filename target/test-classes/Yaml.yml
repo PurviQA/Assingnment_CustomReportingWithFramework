@@ -1,0 +1,7 @@
+browser: chrome
+baseUrl: https://www.gmail.com/
+
+usename: agarwalpr12
+password: priya1994
+
+senderMail: in:inbox from:(agarwalay12@gmail.com)

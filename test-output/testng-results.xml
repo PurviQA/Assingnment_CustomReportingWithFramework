@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2627" started-at="2017-09-04T12:25:26Z" finished-at="2017-09-04T12:25:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2627" started-at="2017-09-04T12:25:26Z" finished-at="2017-09-04T12:25:29Z">
+      <class name="com.qait.training.tests.LoginPageTest">
+        <test-method status="PASS" signature="Test01_verifyUserCanSuccessfullyLogin()[pri:0, instance:com.qait.training.tests.LoginPageTest@4722ef0c]" name="Test01_verifyUserCanSuccessfullyLogin" duration-ms="2608" started-at="2017-09-04T17:55:26Z" finished-at="2017-09-04T17:55:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01_verifyUserCanSuccessfullyLogin -->
+      </class> <!-- com.qait.training.tests.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
